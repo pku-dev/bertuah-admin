@@ -1,2 +1,2 @@
 # bertuah-admin
-Awesome Admin Pannel Create Using Taildwind
+Awesome Admin Pannel Create Using Tailwind
